@@ -1,5 +1,5 @@
 # `fuse-memfile`
-a way to run ELF in-memory without allowing people to read the file (from the beginning)
+a way to run ELF in-memory without allowing people to read the file (from the beginning).
 better explained at https://tishina.in/execution/replacing-memfd-with-fuse
 
 # deps&usage
